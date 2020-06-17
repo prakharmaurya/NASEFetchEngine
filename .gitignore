@@ -1,0 +1,8 @@
+__pycache__/
+__init__.py
+*.env
+.cache/
+config.ini
+.idea
+response_data.json
+cookies.txt
